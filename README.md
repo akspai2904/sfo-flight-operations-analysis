@@ -76,11 +76,11 @@ sfo-flight-operations-analysis/
 
 ## Interactive Dashboard
 
-**Tableau Public:** [View the Interactive Dashboard](PASTE_YOUR_TABLEAU_PUBLIC_URL_HERE)
+**Tableau Public:** [View the Interactive Dashboard](https://public.tableau.com/app/profile/akshata.pai/viz/AirTravelToandFromSFO/AirTravelSFO))
 
 ## Dashboard Preview
 
-![SFO Flight Operations Dashboard](Images/dashboard_preview.png)
+![SFO Flight Operations Dashboard](Air%20Travel%20%28SFO%29.png)
 
 ## Project Skills Demonstrated
 
